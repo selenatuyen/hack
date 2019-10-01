@@ -1,0 +1,18 @@
+textarea {
+        max-width: 100%;
+}
+text-align-center {
+  text-align: center;
+}
+
+text-align-left {
+  text-align: left;
+}
+
+text-align-right {
+  text-align: right;
+}
+
+textarea {
+  vertical-align: middle;
+}
